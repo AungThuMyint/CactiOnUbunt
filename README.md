@@ -10,3 +10,7 @@ curl -sSL https://raw.githubusercontent.com/AungThuMyint/CactiOnUbunt/main/Cacti
 ```
 
 ### Installation Finished
+<img src=https://raw.githubusercontent.com/AungThuMyint/CactiOnUbunt/main/Output.png img>
+
+### Cacti Server
+<img src=https://raw.githubusercontent.com/AungThuMyint/CactiOnUbunt/main/Cacti.png img>
